@@ -1,0 +1,15 @@
+{
+  "development":{
+    "PORT":3005,
+    "server": "http://localhost:3005/",
+    "database":"scaffold_development"
+  },
+  "production":{
+    "PORT":4000,
+    "server":"http://localhost:3000/",
+    "database":"scaffold_production"
+  },
+  "views":{
+    "title":"¡Scaffold!"
+  }
+}
